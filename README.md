@@ -1,5 +1,7 @@
 # OTN Immich Public Proxy
 
+This is a fork of [Immich Public Proxy](https://github.com/alangrainger/immich-public-proxy)
+
 Extra features plan from the original [Immich Public Proxy]
 - random order of photos in an album
 - disable slicing (images batch loading)
@@ -17,8 +19,8 @@ Extra features plan from the original [Immich Public Proxy]
 
 Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 
-👉 See a [Live demo gallery](https://immich-demo.note.sx/share/gJfs8l4LcJJrBUpjhMnDoKXFt1Tm5vKXPbXl8BgwPtLtEBCOOObqbQdV5i0oun5hZjQ)
-serving straight out of my own Immich instance.
+👉 See a [Live demo gallery](https://gallery.otternet.ca/s/photography)
+serving straight out of the fork owner's Immich instance.
 
 Setup takes less than a minute, and you never need to touch it again as all of your sharing stays managed within Immich.
 
